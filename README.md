@@ -1,3 +1,3 @@
 - 👋 Hi, This is Rakesh Bangla. I'm a Digital Marketing Professional with 4+ years of experience. With an interest in Data Analytics, I have recently taken up Data Analytics courses - SQL, Power BI, MS Excel, at codebasics.io. With the skills and concepts I have learned (and learning), I’m building some real-time analytics projects for business use cases. I wil be posting all my projects here, do check them out. In the mean while, I’m looking forward for a career transition into the Data Analytics domain where I can use my recently acquired data skills to help solve business problems and help businesses grow.
 
-- 📫 How to reach me ... : You can reach me on rakeshbangla41@gmail.com
+- 📫 How to reach me ... : You can reach me on rakeshbangla41@gmail.com or on LinkedIn: https://www.linkedin.com/in/rakesh-bangla/ 
