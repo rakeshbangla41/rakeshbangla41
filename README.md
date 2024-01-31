@@ -24,7 +24,7 @@ For the love and passion of analysing businesses and data, I have recently taken
 
 📚  **Projects:**
 
-This is my portfolio, where I showacase all my analytics projects
+This is my portfolio, where I showcase all my [analytics projects](https://github.com/rakeshbangla41?tab=repositories)
 
 👋🏻 **Connect with Me:**
 
