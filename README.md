@@ -1,4 +1,7 @@
 
+![rakesh_bangla_github_profile_picture](https://github.com/rakeshbangla41/rakeshbangla41/assets/132288134/a24294c6-0842-4f28-b734-53cf69995f8e)
+
+
 #### Hi 👋, This is Rakesh Bangla. I’m a former digital marketer who has found a new passion in working with data.
 
 👨🏽‍💻  **My Journey into Data Analytics:**
@@ -9,11 +12,11 @@ For the love and passion of analysing businesses and data, I have recently taken
 
 🌟  **What I Love doing:**   
 
-• An innate interest for thinking of ‘Why’, ‘How’, and ‘What’ for the given scenario and coming up with relevant solutions
+* An innate interest for thinking of ‘Why’, ‘How’, and ‘What’ for the given scenario and coming up with relevant solutions
 
-• I love analysing data and business processes to come up with useful insights and recommendations which can help the business to grow
+* I love analysing data and business processes to come up with useful insights and recommendations which can help the business to grow
 
-• I love creating and building something new which can produce business value
+* I love creating and building something new which can produce business value
 
 
 🛠️  **My Tech Stack**:   
