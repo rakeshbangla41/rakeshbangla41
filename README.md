@@ -1,5 +1,5 @@
 
-### Hi 👋, This is Rakesh Bangla. I’m a former digital marketer who has found a new passion in working with data.
+#### Hi 👋, This is Rakesh Bangla. I’m a former digital marketer who has found a new passion in working with data.
 
 **My Journey into Data Analytics:**
 
