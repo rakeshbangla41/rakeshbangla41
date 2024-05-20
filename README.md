@@ -21,13 +21,13 @@ For the love and passion of analysing businesses and data, I have recently taken
 
 🛠️  **My Tech Stack**:   
 
-* Languages: SQL, Python
-* Data Visualization & Analysis: Power BI, Microsoft Excel
+* Data Analysis/Programming Languages: SQL, Python (Pandas, NumPy), Microsoft Excel
+* Data Visualization: Power BI, Python (Matplotlib, Seaborn)
 * Database: MySQL
 
 📚  **Projects:**
 
-This is my portfolio, where I showcase all my [analytics projects](https://github.com/rakeshbangla41?tab=repositories)
+This is my personal portfolio website, where I showcase all my [analytics projects](https://codebasics.io/portfolio/Rakesh-Bangla)
 
 👋🏻 **Connect with Me:**
 
