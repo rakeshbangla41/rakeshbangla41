@@ -12,19 +12,19 @@ I've had the pleasure of collaborating with various teams to understand their un
 
 🌟  **What I Love doing:**   
 
-* An innate interest for thinking of ‘Why’, ‘How’, and ‘What’ for the given scenario and coming up with relevant solutions
+* An innate interest for thinking of ‘Why’, ‘How’, and ‘What’ for the given scenario and coming up with relevant solutions.
 
-* I love analysing data and business processes to come up with useful insights and recommendations which can help the business to grow
+* I love analysing data and business processes to come up with useful insights and recommendations which can help the business to grow.
 
-* I love creating and building something new which can produce business value
+* I love creating and building something new which can produce business value.
 
 
 🛠️  **My Tech Stack**:   
 
-* Programming Languages and Libraries: SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, etc.
-* Data Visualization: Power BI
-* Database: PostgreSQL, MySQL
-* Others: Advanced Excel, Statistics
+* **Programming Languages and Libraries**: SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, etc.
+* **Data Visualization**: Power BI
+* **Databases**: PostgreSQL, MySQL
+* **Others**: Advanced Excel, Statistics
 
 📚  **Projects:**
 
