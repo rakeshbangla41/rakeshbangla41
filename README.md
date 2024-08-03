@@ -4,11 +4,11 @@
 
 #### Hi 👋, This is Rakesh Bangla. I’m a former digital marketer who has found a new passion in working with data.
 
-👨🏽‍💻  **My Journey into Data Analytics:**
+👨🏽‍💻  **My Data Analytics Journey So Far:**
 
-While I was working as a Digital Marketer, I went through some business scenarios where the Leads for the company were coming down. I was questioning the reasons for the decrease in leads, and also my team lead gave me this job to find out the actual reasons. This is when I got interested in analyzing businesses and data and came to know my new passion for analyzing/questioning things and coming up with solutions. This experience encouraged me to look for an exciting career in Data.   
+As a Data Analyst with over 1+ years of experience, I have honed my skills in transforming complex data into actionable insights that can drive impactful business decisions. I specialize in leveraging analytical tools such as SQL, Power BI, Python, and Excel to dive deep into data, uncover patterns, and tell stories that help teams make informed choices. 
 
-For the love and passion of analysing businesses and data, I have recently taken up and completed Data Analytics Bootcamp course at codebasics.io. With the skills and concepts I have learned (and learning), I have developed some real-time analytics projects for business use cases. In the mean while, I’m looking forward for a career transition into the Data Analytics/Data Science domain where I can use my recently acquired data skills to help solve business problems and help businesses grow.
+I've had the pleasure of collaborating with various teams to understand their unique data needs and deliver solutions that improve efficiency and drive performance. With a keen eye for detail and a passion for solving problems, I am committed to using data-driven strategies to help organizations achieve their goals and foster growth. I'm excited about the possibilities that data holds and look forward to connecting with others who share this enthusiasm!
 
 🌟  **What I Love doing:**   
 
@@ -21,9 +21,10 @@ For the love and passion of analysing businesses and data, I have recently taken
 
 🛠️  **My Tech Stack**:   
 
-* Data Analysis/Programming Languages: SQL, Python (Pandas, NumPy), Microsoft Excel
-* Data Visualization: Power BI, Python (Matplotlib, Seaborn)
-* Database: MySQL
+* Programming Languages and Libraries: SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, etc.
+* Data Visualization: Power BI
+* Database: PostgreSQL, MySQL
+* Others: Advanced Excel, Statistics
 
 📚  **Projects:**
 
