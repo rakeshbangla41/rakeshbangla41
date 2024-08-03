@@ -2,7 +2,7 @@
 ![rakesh_bangla_github_profile_picture](https://github.com/rakeshbangla41/rakeshbangla41/assets/132288134/a24294c6-0842-4f28-b734-53cf69995f8e)
 
 
-#### Hi 👋, This is Rakesh Bangla. I’m a former digital marketer who has found a new passion in working with data.
+#### Hi 👋, This is Rakesh Bangla.
 
 👨🏽‍💻  **My Data Analytics Journey So Far:**
 
