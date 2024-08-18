@@ -6,17 +6,17 @@
 
 👨🏽‍💻  **My Data Analytics Journey So Far:**
 
-As a Data Analyst with less than 1 year of experience, I have honed my skills in transforming complex data into actionable insights that can drive impactful business decisions. I specialize in leveraging analytical tools such as SQL, Power BI, Python, and Excel to dive deep into data, uncover patterns, and tell stories that help teams make informed choices. 
+As a Data Analyst who has worked in the Digital Marketing & Analytics domain, I have honed my skills in transforming complex data into actionable insights to drive impactful business decisions. I leverage analytical tools, such as SQL, Power BI, Python, and Excel to dive deep into data, uncover patterns, and tell stories that help teams make informed choices.  
 
 I've had the pleasure of collaborating with various teams to understand their unique data needs and deliver solutions that improve efficiency and drive performance. With a keen eye for detail and a passion for solving problems, I am committed to using data-driven strategies to help organizations achieve their goals and foster growth. I'm excited about the possibilities that data holds and look forward to connecting with others who share this enthusiasm!
 
 🌟  **What I Love doing:**   
 
-* An innate interest for thinking of ‘Why’, ‘How’, and ‘What’ for the given scenario and coming up with relevant solutions.
+* An innate interest in thinking of ‘Why’, ‘How’, and ‘What’ for the given scenario and coming up with relevant solutions.
 
-* I love analysing data and business processes to come up with useful insights and recommendations which can help the business to grow.
+* I love analysing data and business processes to come up with useful insights and recommendations that can help the business to grow.
 
-* I love creating and building something new which can produce business value.
+* I love creating and building something new that can produce business value.
 
 
 🛠️  **My Tech Stack**:   
